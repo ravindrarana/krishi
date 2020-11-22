@@ -1,0 +1,15 @@
+.font {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.font-30 {
+    font-size: 30px;
+}
+
+.team-color li {
+    color: white;
+}
+
+.card-color {
+    background-color: #2f6d3db5;
+}
